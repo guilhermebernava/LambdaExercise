@@ -1,0 +1,16 @@
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\bin\Debug\net5.0\LambdaExercise.exe
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\bin\Debug\net5.0\LambdaExercise.deps.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\bin\Debug\net5.0\LambdaExercise.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\bin\Debug\net5.0\LambdaExercise.runtimeconfig.dev.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\bin\Debug\net5.0\LambdaExercise.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\bin\Debug\net5.0\ref\LambdaExercise.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\bin\Debug\net5.0\LambdaExercise.pdb
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\LambdaExercise.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\LambdaExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\LambdaExercise.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\LambdaExercise.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\LambdaExercise.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\LambdaExercise.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\ref\LambdaExercise.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\LambdaExercise.pdb
+C:\Users\guilh\OneDrive\Documentos\Exercises\LambdaExercise\LambdaExercise\LambdaExercise\obj\Debug\net5.0\LambdaExercise.genruntimeconfig.cache
